@@ -1,6 +1,6 @@
 # PWR-Racing-Team-Software-Task
 
-This project contains three main scripts for working with convex hulls:
+This project contains three main scripts for solving the convex hull problem:
 
 1. `generate_points_file.py`: Generates a file with random 2D points.
 2. `convex_hull_script.cpp`: Computes the convex hull of a set of 2D points using the Graham Scan algorithm.
